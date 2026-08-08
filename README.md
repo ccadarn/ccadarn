@@ -34,6 +34,3 @@ A working reference I built while learning: query execution order, NULL handling
 - Independent IT consultancy, 2003-2017: hardware, networking, and software support
 - SQLBolt (completed), Knight Lab SQL Murder Mystery (solved independently)
 - Google IT Support Professional Certificate, IBM Databases and SQL for Data Science with Python
-
-## Get in touch
-- Email: ccadarn@gmail.com
