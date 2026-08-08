@@ -36,6 +36,4 @@ A working reference I built while learning: query execution order, NULL handling
 - Google IT Support Professional Certificate, IBM Databases and SQL for Data Science with Python
 
 ## Get in touch
-
-- LinkedIn: [your LinkedIn URL]
-- Email: [your email]
+- Email: ccadarn@gmail.com
